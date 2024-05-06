@@ -3,8 +3,9 @@
             position:absolute;
             top:50%;
             left:50%;
-            height:200px;
-            border-left:2px solid black;
+            width:200px;
+			 height:2px;
+            
             animation: rotate 5s linear infinite;	
         }
 @keyframes rotate{
